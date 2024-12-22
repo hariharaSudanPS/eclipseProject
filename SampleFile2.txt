@@ -1,0 +1,3 @@
+Hello there...
+use Buffered writer
+i'm appending this text by using 'true' keyword
