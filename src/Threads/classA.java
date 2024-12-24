@@ -1,3 +1,4 @@
+//extends default Thread class
 package Threads;
 class Main extends Thread{
  public void run() {
